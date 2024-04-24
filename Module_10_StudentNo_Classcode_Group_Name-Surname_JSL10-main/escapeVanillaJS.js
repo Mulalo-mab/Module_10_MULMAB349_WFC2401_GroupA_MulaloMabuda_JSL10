@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Attach event listener to the button with ID "solveRoom2"
   document.getElementById("solveRoom2").addEventListener("click", () => {
     // Define JavaScript and React concepts sets
-    const jsConcepts = new Set(["closure", "scope", "hoisting"]);
+    const jsConcepts = new Set(["closure", "scope", "hoisting", "async"]);
     // 🛠️ Fix: Update JS concepts with missing items
     const reactConcepts = new Set(["components", "jsx", "hooks", "async"]);
     // 🛠️ Fix: Correct function call
